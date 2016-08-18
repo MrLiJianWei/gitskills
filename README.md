@@ -1,3 +1,3 @@
 # gitskills
-hello world
-first create repository
+hello world i idfdf  idf
+irst create repository
