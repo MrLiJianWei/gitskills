@@ -1,3 +1,6 @@
 # gitskills
 hello world
-first create repository
+ello world
+io it
+´·´·  º°
+st create repositoy
