@@ -1,2 +1,3 @@
 # gitskills
-first create repository
+first create repositoy
+hello
